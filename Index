@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto Agrinho</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Projeto Agrinho</h1>
+</header>
+
+<main>
+
+<section>
+    <h2>Apresentando os objetivos e a abordagem da unidade</h2>
+    <p>
+        Durante esta unidade, vamos nos preparar em conjunto para construir
+        uma aplicação utilizando HTML, CSS e JavaScript para o concurso Agrinho.
+    </p>
+    <p>
+        Aprenderemos o básico para criar um site e compartilhar conhecimentos
+        importantes sobre programação.
+    </p>
+</section>
+
+<section>
+    <h2>Explorando a temática, complexidade e publicação do projeto</h2>
+    <p>
+        Exploraremos a temática do projeto, sua identidade e a complexidade
+        do código.
+    </p>
+    <p>
+        Também verificaremos a experiência do usuário, a responsividade
+        do site e sua publicação.
+    </p>
+</section>
+
+<section>
+    <h2>Motivando e iniciando a programação</h2>
+    <p>
+        Estamos prontos para começar a programar e desenvolver nosso projeto.
+    </p>
+
+    <button onclick="mensagem()">
+        Começar Projeto
+    </button>
+</section>
+
+</main>
+
+<script src="script.js"></script>
+</body>
+</html>
